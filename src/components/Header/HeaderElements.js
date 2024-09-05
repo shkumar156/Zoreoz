@@ -26,6 +26,7 @@ export const Logo = styled('div')`
   img {
     width: 47px;
     height: 47px;
+    border-radius: 50%;
   }
 `;
 
