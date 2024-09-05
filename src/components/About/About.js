@@ -1,5 +1,4 @@
 import React from "react";
-import profilePicture from '../Hero/ProfilePicture.png'
 import { stackList } from "../../data/ProjectData";
 import {
   Image,
