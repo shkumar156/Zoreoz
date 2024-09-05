@@ -5,7 +5,7 @@ export const ProjectList = [
     title: "No Projects Yet.",
     description:
       "",
-    tech_stack: ["Prjects Coming Soon"],
+    tech_stack: ["Projects Coming Soon"],
     github_url: "",
     demo_url: "",
   },
