@@ -52,7 +52,7 @@ function Contact() {
             </Email>
 
             <Email>
-              <div style={{ display: 'flex', alignItems: 'center', columnGap: '20px', rowGap: '10px', flexWrap: 'wrap', justifyContent: 'center', marginTop: '20px' }}>
+              <div style={{ display: 'flex', alignItems: 'center', columnGap: '200px', rowGap: '10px', flexWrap: 'wrap', justifyContent: 'center', marginTop: '20px' }}>
                 <span>03164207524</span>
                 <Tooltip
                   PopperProps={{
