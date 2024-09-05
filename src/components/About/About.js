@@ -15,7 +15,7 @@ function About() {
   return (
     <ContactWrapper id="about">
       <div className="Container">
-        <div className="SectionTitle">About Me</div>
+        <div className="SectionTitle">About Zoreoz</div>
         <div className="BigCard">
       
           <div className="AboutBio">
@@ -24,7 +24,12 @@ function About() {
               Welcome to <strong>Zoreoz Software Club</strong>, your premier destination for transformative digital solutions. At Zoreoz, we are committed to delivering exceptional website and app development services that cater to your specific business requirements. Our dedicated team combines innovative strategies with advanced technology to create powerful, user-centric digital experiences. Looking ahead, we are excited to expand our range of services, continually pushing the boundaries of what’s possible. Trust Zoreoz Software Club to elevate your digital presence and drive your success with unparalleled expertise and dedication.
               <br/>
               <br/>
-              Our expertise are in:
+              <b>Our expertise are in:</b>
+
+              <br/>
+              <br/>
+              <br/>
+              <br/>
             </ScrollAnimation>
 
           
