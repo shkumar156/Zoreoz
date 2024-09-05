@@ -17,30 +17,17 @@ function About() {
       <div className="Container">
         <div className="SectionTitle">About Me</div>
         <div className="BigCard">
-        <ScrollAnimation animateIn="fadeInLeft">
-        <StyledProfilePicture src={profilePicture} alt="Description" />
-        </ScrollAnimation>
+      
           <div className="AboutBio">
             <ScrollAnimation animateIn="fadeInLeft">
               <br/>
-            Hello! My name is <strong>Daniyal Rao</strong>. I'm originally from Multan, Pakistan and have been living in Abbottabad, Pakistan for the past three years. During my time here, I gained valuable experience through various entry-level positions, which greatly enhanced my work ethic, communication skills, and adaptability.
+              Welcome to <strong>Zoreoz Software Club</strong>, your premier destination for transformative digital solutions. At Zoreoz, we are committed to delivering exceptional website and app development services that cater to your specific business requirements. Our dedicated team combines innovative strategies with advanced technology to create powerful, user-centric digital experiences. Looking ahead, we are excited to expand our range of services, continually pushing the boundaries of what’s possible. Trust Zoreoz Software Club to elevate your digital presence and drive your success with unparalleled expertise and dedication.
+              <br/>
+              <br/>
+              Our expertise are in:
             </ScrollAnimation>
 
-            <br /><br />
-            
-            <ScrollAnimation animateIn="fadeInLeft">
-            My journey into the world of technology began with a strong passion for problem-solving, which led me to pursue the Computer Systems Technology program. Despite its challenges, I remained determined and forged lasting friendships that supported me throughout this demanding program.
-            Throughout my studies at BSCS, I had the opportunity to engage in fascinating projects. Notably, I contributed to the development of the React Applications, projects that garnered recognition from my colleagues, instructors, and clients alike.
-            </ScrollAnimation>
-
-            <br /><br />
-
-            <ScrollAnimation animateIn="fadeInLeft">
-              Working collaboratively within a team towards a shared objective has been an incredibly rewarding and unique experience for me. I am eager to continue exploring exciting projects in the future, with a particular interest in web development and cross-platform mobile development.
-              <div className="tagline2">
-                I have become confident using the following technologies:
-              </div>
-            </ScrollAnimation>
+          
             
 
             <Technologies>
