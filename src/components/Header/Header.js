@@ -1,4 +1,5 @@
 import React from "react";
+import image from "./favicon.jpg";
 import { Nav, Logo, NavLink, Bars, NavMenu, NavBtn } from "./HeaderElements";
 
 const Header = ({ toggle }) => {
@@ -6,10 +7,7 @@ const Header = ({ toggle }) => {
     <div className="Container" style={{padding: 0}}>
       <Nav>
         <Logo to="/">
-          <img
-            src="/logo.png"
-            alt="logo"
-          />
+        <img src="./favicon.jpg" alt="Favicon Image"/>
         </Logo>
         <NavMenu>
           <NavLink className="menu-item" to="projects">
@@ -25,7 +23,7 @@ const Header = ({ toggle }) => {
         <NavBtn>
           <a
             className="btn PrimaryBtn"
-            href="https://linkedin.com/in/pedro-sales-muniz"
+            href="https://www.linkedin.com/in/zoreoz-software-club-undefined-2646b1327"
             target="_blank"
             rel="noopener noreferrer"
           >
