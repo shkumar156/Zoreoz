@@ -12,6 +12,7 @@ export const Email = styled.div`
   flex-wrap: wrap;
   row-gap: 1rem;
 
+
   span {
     font-size: 1rem;
     font-weight: 400;
