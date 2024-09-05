@@ -81,7 +81,7 @@ export const HeroRight = styled.div`
 export const StyledProfilePicture = styled.img`
   height: 300px;
   width: 300px; /* Ensures the image is a square */
-  margin-right: 100px;
+
   border-radius: 50%; /* Makes the image round */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 1.0);
 `;
