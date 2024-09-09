@@ -2,7 +2,7 @@
  A portfolio for a Client.
 
 
-  https://zoreoz.vercel.app
+  Domain: https://zoreoz.vercel.app
 
 
  
